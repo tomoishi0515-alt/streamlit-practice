@@ -1,2 +1,1 @@
-# streamlit-practice
-Streamlitの練習用
+以下のURLにアクセス
