@@ -6,8 +6,8 @@ Streamlitの練習用
 
 streamlit run cards_games_app.py
 
-このアプリは、いろいろなカードゲームを遊べるものです。
+このアプリは、いろいろなゲームを遊べるものです。
 
 ## 以下のURLにアクセス
 
-[text](https://)
+[ゲームアプリ](https://tomoishi0515-alt-gameapp-2025-10-13.streamlit.app/)
