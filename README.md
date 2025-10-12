@@ -4,7 +4,9 @@ Streamlitの練習用
 
 ## 以下のコマンドで起動
 
+```bash
 streamlit run cards_games_app.py
+```
 
 このアプリは、いろいろなゲームを遊べるものです。
 
