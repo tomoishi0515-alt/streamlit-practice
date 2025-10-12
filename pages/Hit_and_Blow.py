@@ -4,6 +4,9 @@ import streamlit as st
 # ---- タイトル ----
 st.title("🎯 Hit & Blow Game!")
 st.write("4桁の数字を当てるゲームです。")
+st.write("ルール: 4桁の異なる数字を入力してください。各試行後にHitとBlowの数が表示されます。")
+st.write("Hit: 正しい位置にある数字の数")
+st.write("Blow: 異なる位置にある正しい数字の数")
 # ---- 初期設定 ----
 if "target_number" not in st.session_state:
     st.session_state.target_number = "".join(random.sample("0123456789", 4))
