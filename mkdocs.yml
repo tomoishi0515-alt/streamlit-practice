@@ -6,6 +6,7 @@ nav:
   - Home: index.md
   - About: about.md
   - High and Low Game: howtouse/high_and_low.md
+  - Hit and Blow Game: howtouse/hit_and_blow.md
 repo_url: https://github.com/tomoishi0515-alt/streamlit-practice
 extra:
   version:
